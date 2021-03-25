@@ -1,4 +1,4 @@
 Django==2.2.10
 pytz==2017.3
-pyYAML==5.1
+pyYAML==5.4
 ipython==6.2.1
